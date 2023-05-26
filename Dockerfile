@@ -1,4 +1,4 @@
-FROM python:3.8.1-slim-buster
+FROM python:3.12.0b1-slim-buster
 
 USER root
 ENV HOME="/opt/whispers"
